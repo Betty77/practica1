@@ -18,8 +18,8 @@ public practica(){
 f=new JFrame("Control");
 f1=new JFrame("contraseña");
 
-      b1=new JButton("Maestro");
-      b2=new JButton("Alumno");
+      b1=new JButton("master");
+      b2=new JButton("yo");
       p = new JPanel();
       p.setLayout(new FlowLayout());
       p.add(b1);
